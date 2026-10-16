@@ -16,10 +16,14 @@
 |---|---|
 | ![Menu](screenshots/menu.png) | ![Options](screenshots/options.png) |
 
+| Редактор тач-зон |
+|---|
+| ![Touch zone editor](screenshots/editor.png) |
+
 ## Возможности
 
 - 🎮 **Лаунчер (Zone Launcher)** — экземпляры игры, моды/аддоны (вкл/выкл без перекопирования), разрешение рендера, выбор GL-драйвера (системный OpenGL ES / ANGLE), апскейл, VSync, сбор диагностики.
-- 🕹 **Тач-управление** — настраиваемые зоны, редактор раскладки, профили.
+- 🕹 **Тач-управление** — настраиваемые зоны и профили раскладок; встроенный **редактор**: жест «тянуть» двигает зону, «2-й палец» (пинч) меняет размер, тап по выбранной зоне группирует, уголок зоны открывает панель свойств.
 - 🖼 **Апскейл** — FSR 1.0 (AMD) и SGSR (Qualcomm) + «Качество апскейла» (масштаб рендера 25–100%); при выключённом апскейле — биллинейный фильтр.
 - ⚡ **Производительность** — масштаб рендера для слабых устройств (25–75%), отключение мелких теней, опциональный VSync.
 
@@ -56,7 +60,7 @@ Ported to phones/tablets (arm64): custom launcher, editable touch controls, upsc
 ## Features
 
 - 🎮 **Zone Launcher** — game instances, mods/addons (toggle without re-copying), render resolution, GL driver choice (stock OpenGL ES / ANGLE), upscaler, VSync, diagnostics dump.
-- 🕹 **Touch controls** — configurable zones, layout editor, profiles.
+- 🕹 **Touch controls** — configurable zones and layout profiles; built-in **editor**: drag to move a zone, pinch (two fingers) to resize, tap the selected zone to group it, tap its corner to open the property panel.
 - 🖼 **Upscaling** — FSR 1.0 (AMD) and SGSR (Qualcomm) plus "Upscale quality" (render scale 25–100%); bilinear filtering when upscaling is off.
 - ⚡ **Performance** — render scale for weaker devices (25–75%), optional VSync, small-light shadow toggle.
 
