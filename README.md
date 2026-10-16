@@ -1,6 +1,7 @@
 # OpenXRay — Android
 
 **Android-порт движка [OpenXRay](https://github.com/OpenXRay/xray-16)** (открытая реализация X-Ray) для игр серии S.T.A.L.K.E.R.
+На данный момент работает только с зов припяти и модами на его основе (xray1.6)
 
 Портируется под телефон/планшет (arm64): свой лаунчер, тач-управление с редактором, апскейл картинки и настройка масштаба рендера для слабых устройств.
 
@@ -52,6 +53,7 @@
 # OpenXRay — Android
 
 **An Android port of the [OpenXRay](https://github.com/OpenXRay/xray-16) engine** (open-source X-Ray implementation) for the S.T.A.L.K.E.R. series.
+At the moment, it only works with Call of Pripyat and mods based on it (xray1.6).
 
 Ported to phones/tablets (arm64): custom launcher, editable touch controls, upscaling and render-scale options for lower-end devices.
 
