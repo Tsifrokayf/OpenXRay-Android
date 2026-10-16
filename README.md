@@ -28,6 +28,7 @@
 - 🕹 **Тач-управление** — настраиваемые зоны и профили раскладок; встроенный **редактор**: жест «тянуть» двигает зону, «2-й палец» (пинч) меняет размер, тап по выбранной зоне группирует, уголок зоны открывает панель свойств.
 - 🖼 **Апскейл** — FSR 1.0 (AMD) и SGSR (Qualcomm) + «Качество апскейла» (масштаб рендера 25–100%); при выключённом апскейле — биллинейный фильтр.
 - ⚡ **Производительность** — масштаб рендера для слабых устройств (25–75%), отключение мелких теней, опциональный VSync.
+- Поддержка геймпада и клавиатуры с автоматическим скрытием экранного управления, поддержка работы через внешний дисплей в режиме рабочего стола.
 
 ## Установка
 
@@ -66,6 +67,7 @@ Ported to phones/tablets (arm64): custom launcher, editable touch controls, upsc
 - 🕹 **Touch controls** — configurable zones and layout profiles; built-in **editor**: drag to move a zone, pinch (two fingers) to resize, tap the selected zone to group it, tap its corner to open the property panel.
 - 🖼 **Upscaling** — FSR 1.0 (AMD) and SGSR (Qualcomm) plus "Upscale quality" (render scale 25–100%); bilinear filtering when upscaling is off.
 - ⚡ **Performance** — render scale for weaker devices (25–75%), optional VSync, small-light shadow toggle.
+- Support for gamepad and keyboard with automatic hiding of on‑screen controls, support for working via an external display in desktop mode.
 
 ## Install
 
